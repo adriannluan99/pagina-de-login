@@ -1,0 +1,27 @@
+@import "UTF-8";
+
+body {
+    background-color: #1850bf;
+}
+
+main {
+    background-color: white;
+    border-radius: 50px;
+    box-shadow: 0px 20px 40px;
+    width: 500px;
+    height: 600px;
+    position: absolute;
+
+    left: 50%;
+    top: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+img {
+    width: 200px;
+}
+
+.email {
+    margin: auto;
+}
